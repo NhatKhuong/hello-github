@@ -1,4 +1,4 @@
 # hello-github
-python```
+```python
 print(1+1)
 ```
