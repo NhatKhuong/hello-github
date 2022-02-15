@@ -1,4 +1,4 @@
 # hello-github
 ```python
-print(1+1)
+prisb hjnt(1+1)
 ```
